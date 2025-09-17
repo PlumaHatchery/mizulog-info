@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mizulog プライバシーポリシー</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans SC", "Noto Sans TC", sans-serif;
+         line-height: 1.7; margin: 0; padding: 24px; max-width: 900px; }
+  h1 { font-size: 1.6rem; margin-bottom: .5em; }
+  h2 { font-size: 1.2rem; margin-top: 1.5em; }
+  hr { margin: 2em 0; }
+  small { color: #666; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Mizulog プライバシーポリシー / Privacy Policy / 隐私政策 / 隱私政策</h1>
+  <p><small>最終更新日: 2025-09-17</small></p>
+</header>
+
+<!-- 日本語 -->
+<section lang="ja">
+  <h2>日本語</h2>
+  <p>本アプリ「みずログ」（以下「本アプリ」）は、毎日の水分摂取をシンプルに記録できるよう設計されています。</p>
+  <h3>取得する情報</h3>
+  <ul>
+    <li>位置情報（使用中のみ）：「暑い日モード」を自動調整するために使用。バックグラウンドでは継続取得しません。</li>
+    <li>IDFA（広告識別子）：広告最適化のために使用。許可しなくてもアプリ利用可。</li>
+    <li>飲水記録データ：端末内に保存。開発者サーバーへ送信しません。</li>
+  </ul>
+  <h3>第三者サービス</h3>
+  <p>広告配信のため <a href="https://policies.google.com/technologies/ads?hl=ja">Google AdMob</a> を利用します。</p>
+  <h3>ユーザーの選択肢</h3>
+  <p>位置情報とトラッキング許可は端末設定からいつでも変更できます。</p>
+  <h3>お問い合わせ</h3>
+  <p>メール: <a href="mailto:pluma.hatchery@gmail.com">pluma.hatchery@gmail.com</a></p>
+</section>
+
+<hr>
+
+<!-- English -->
+<section lang="en">
+  <h2>English</h2>
+  <p>This app “Mizulog” is designed to let you log your daily water intake with a simple UI.</p>
+  <h3>Data We Access</h3>
+  <ul>
+    <li>Location (When in Use): Used to adjust “Hot Day Mode” based on local weather. No continuous background collection.</li>
+    <li>IDFA: Used for ad optimization via Apple ATT. You can use the app without allowing tracking.</li>
+    <li>Water log data: Stored locally on your device. Not sent to developer servers.</li>
+  </ul>
+  <h3>Third Parties</h3>
+  <p>We use <a href="https://policies.google.com/technologies/ads">Google AdMob</a> for ads.</p>
+  <h3>User Choices</h3>
+  <p>You can change permissions for location and tracking anytime in iOS Settings.</p>
+  <h3>Contact</h3>
+  <p>Email: <a href="mailto:pluma.hatchery@gmail.com">pluma.hatchery@gmail.com</a></p>
+</section>
+
+<hr>
+
+<!-- 简体中文 -->
+<section lang="zh-Hans">
+  <h2>简体中文</h2>
+  <p>本应用“水分日志”（Mizulog）旨在以简单方式记录每日饮水。</p>
+  <h3>收集的信息</h3>
+  <ul>
+    <li>位置信息（仅在使用时）：用于根据天气自动调整“炎热日模式”。不会在后台持续获取。</li>
+    <li>IDFA：在获得 Apple ATT 授权时，用于广告优化。不允许跟踪也可正常使用。</li>
+    <li>饮水记录数据：仅保存在设备本地，不会传输到开发者服务器。</li>
+  </ul>
+  <h3>第三方服务</h3>
+  <p>使用 <a href="https://policies.google.com/technologies/ads?hl=zh-CN">Google AdMob</a> 投放广告。</p>
+  <h3>用户选择</h3>
+  <p>您可在系统设置中随时修改位置信息和跟踪权限。</p>
+  <h3>联系方式</h3>
+  <p>邮箱: <a href="mailto:pluma.hatchery@gmail.com">pluma.hatchery@gmail.com</a></p>
+</section>
+
+<hr>
+
+<!-- 繁體中文 -->
+<section lang="zh-Hant">
+  <h2>繁體中文</h2>
+  <p>本應用「水分日誌」（Mizulog）旨在以簡單方式記錄每日飲水。</p>
+  <h3>收集的資訊</h3>
+  <ul>
+    <li>位置資訊（僅在使用時）：用於根據天氣自動調整「炎熱日模式」。不會在背景持續取得。</li>
+    <li>IDFA：在獲得 Apple ATT 授權時，用於廣告優化。不允許追蹤也可正常使用。</li>
+    <li>飲水記錄資料：僅保存在裝置本地，不會傳輸到開發者伺服器。</li>
+  </ul>
+  <h3>第三方服務</h3>
+  <p>使用 <a href="https://policies.google.com/technologies/ads?hl=zh-TW">Google AdMob</a> 投放廣告。</p>
+  <h3>使用者選擇</h3>
+  <p>您可在系統設定中隨時修改位置與追蹤權限。</p>
+  <h3>聯絡方式</h3>
+  <p>信箱: <a href="mailto:pluma.hatchery@gmail.com">pluma.hatchery@gmail.com</a></p>
+</section>
+
+</body>
+</html>
